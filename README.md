@@ -8,8 +8,8 @@ This repository contains an interactive Power BI report that visualizes key insi
 
 ## Tools Used
 - **Power BI** – Data visualization and dashboard creation
-- **SQL (if applicable)** – Data extraction and transformation (if data was retrieved from a database)
-- **Excel/CSV** – Initial data source (if applicable)
+- **SQL** – Data extraction and transformation
+- **Excel/CSV** – Initial data source
 
 ## Key Insights
 - **Customer Demographics**: Age groups, gender distribution, and other relevant characteristics.
